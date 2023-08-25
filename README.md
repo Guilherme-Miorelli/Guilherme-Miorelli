@@ -41,7 +41,11 @@ Tecnologias e Ferramentas
 
 
 Eu estou estudando... 🧩
-React NodeJS Vue.js Java Next JS
+
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 Cursos realizados 🤓
 DDS Cubos Academy DBE Cubos Academy
