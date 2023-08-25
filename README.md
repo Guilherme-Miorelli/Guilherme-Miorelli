@@ -29,9 +29,21 @@ Lang: <a href="#portugues">PT</a> | <a href="#ingles">EN</a>
   <li>História:nerd_face:</li>
 </ul>
 
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
+✒️ Eu gosto de no meu tempo livre:
+<ul>
+  <li>Ler</li>
+  <li>Tocar violão e guitarra</li>
+  <li>Jogar</li>
+  <li>Passar o tempo com amigos</li>
+  <li>Pesquisar diversos temas</li>
+</ul>
 
-📚 Lendo: [Livro que está lendo atualmente]
+📚 Lendo: 
+<ul>
+  <li>Pilares da Terra - Ken Follet</li>
+  <li>Terceiro Reich no poder - Richard J. Evans</li>
+  <li>Edgar Allan Poe</li>
+</ul>
 
 Eu já trabalhei com... 🔧
 
@@ -48,7 +60,7 @@ Eu estou estudando... 🧩
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 Cursos realizados 🤓
-DDS Cubos Academy DBE Cubos Academy
+- Possuo diversos cursos, você pode conferí-los acessando o meu [![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-chesini-miorelli/)
 
 GitHub Stats ⚡
 
