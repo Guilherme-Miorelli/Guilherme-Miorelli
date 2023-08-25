@@ -12,9 +12,9 @@ Lang: <a href="#portugues">PT</a> | <a href="#ingles">EN</a>
   
   Sobre mim
 
-💻 Eu sou formado em **Análise e Desenvolvimento de Sistemas** e sou **desenvolvedor Back-End** :technologist:
+💻 Sou formado em **Análise e Desenvolvimento de Sistemas** e sou **desenvolvedor Back-End** :technologist:
 
-🎓 Eu estou estudando no momento **Desenvolvimento de Software com Foco em Back-End** na <a href="https://cubos.academy/">@Cubos Academy</a>
+🎓 Estou estudando no momento **Desenvolvimento de Software com Foco em Back-End** na <a href="https://cubos.academy/">@Cubos Academy</a>
 
 🌱 Atualmente estou aprendendo mais sobre programação Back-end utilizando as tecnologias Javascript e API-rest.
 
