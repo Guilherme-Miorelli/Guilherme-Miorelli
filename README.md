@@ -38,7 +38,7 @@ Lang: <a href="#portugues">PT</a> | <a href="#ingles">EN</a>
   <li>Edgar Allan Poe</li>
 </ul>
 
-I worked also with... 🔧
+I also worked with... 🔧
 
 Technologies and Tools
 
